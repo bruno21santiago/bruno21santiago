@@ -1,10 +1,10 @@
 ### Seja bem vindo(a)!
 
-👤 Bruno, 25 anos, 1.94 altura, carioca, libriano, solteiro, desenvolvedor em formação.
+<p align="left">👤 Bruno, 25 anos, 1.94 altura, carioca, libriano, solteiro, desenvolvedor em formação.</p>
 
-🎓 Técnico de TI - Colégio Santo Inácio - Botafogo-RJ.
+<p align="left">🎓 Técnico de TI - Colégio Santo Inácio - Botafogo-RJ.</p>
 
-✅ Meus resumos TI: https://drive.google.com/drive/folders/1HwbQEfxjGNOYn_U_U3MjVVXbBHydb14y?usp=sharing
+<p align="left">✅ Meus resumos TI: https://drive.google.com/drive/folders/1HwbQEfxjGNOYn_U_U3MjVVXbBHydb14y?usp=sharing</p>
 
 <div>
   <a href="https://github.com/bruno21santiago">
@@ -26,16 +26,29 @@
 </div>
   
 ##
-  
+ 
 ### Redes Sociais
+  
+#### <p align="left">💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️</p>
 
 <div> 
-   <a href="https://api.whatsapp.com/send?phone=5521978751816" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/bruno21santiago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:bruno21santiagod@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.instagram.com/bruusadi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://web.facebook.com/profile.php?id=100038961272651&_rdc=1&_rdr" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-   <a href="https://discord.com/channels/BrunoSantiago#0595" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+   <a href="https://api.whatsapp.com/send?phone=5521978751816" target="_blank">
+   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  
+   <a href="https://www.linkedin.com/in/bruno21santiago/" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+   <a href="mailto:bruno21santiagod@gmail.com">
+   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   
+   <a href="https://www.instagram.com/bruusadi/" target="_blank">
+   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+   <a href="https://web.facebook.com/profile.php?id=100038961272651&_rdc=1&_rdr" target="_blank">
+   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  
+   <a href="https://discord.com/channels/BrunoSantiago#0595" target="_blank">
+   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/bruno21santiago/bruno21santiago/blob/main/github-user-contribution.svg)
 </div>
