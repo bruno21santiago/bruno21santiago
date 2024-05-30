@@ -1,7 +1,8 @@
 ### Seja bem vindo(a)!
 
-<p align="left">👤 Bruno, 25 anos, 1.94 altura, carioca, libriano, solteiro, desenvolvedor em formação.</p>
+<p align="left">👤 Bruno, 27 anos, 1.94 altura, carioca, libriano, solteiro, desenvolvedor em formação.</p>
 
+<p align="left">Cursando Sistemas de Informação na Descomplica</p>
 <p align="left">🎓 Técnico de TI - Colégio Santo Inácio - Botafogo-RJ.</p>
 
 <div>
